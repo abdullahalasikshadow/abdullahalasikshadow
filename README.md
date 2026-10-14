@@ -172,7 +172,7 @@ A completely free AI assistant for students and developers. Powered by **Groq** 
 ```
 ╔═══════════════════════════════════════════════════════╗
 ║                                                       ║
-║   Made in 🇧🇩 Bangladesh with love for the world      ║
+║   Made in 🇧🇩 Bangladesh with love for the world        ║
 ║   Free AI for everyone. No barriers. Just pure        ║
 ║   knowledge.                   — Abdullah Al Asik     ║
 ║                                                       ║
