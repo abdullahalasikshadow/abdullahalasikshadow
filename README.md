@@ -102,9 +102,9 @@
 
 ## Contribution graph
 
-<div align="center">
-
-<img src="https://ghchart.rshah.org/1f6feb/abdullahalasikshadow" alt="Contribution graph" width="95%" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdullahalasikshadow&theme=2077" width="100%" alt="Abdullah's 3D Contribution Graph" />
+</p>
 
 <br /><br />
 
